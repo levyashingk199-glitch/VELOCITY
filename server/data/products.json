@@ -1,0 +1,2359 @@
+[
+  {
+    "id": 1,
+    "name": "Air Zoom Velocity Pro",
+    "brand": "Nike",
+    "category": "Running",
+    "gender": "Men",
+    "price": 189,
+    "oldPrice": 240,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "White"
+    ],
+    "description": "Engineered for race day. Responsive Zoom Air cushioning, breathable Flyknit upper and a carbon-infused plate deliver explosive speed with all-day comfort.",
+    "stock": 24,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviews": 412,
+    "popularity": 98,
+    "specs": {
+      "weight": "240g",
+      "drop": "8mm",
+      "surface": "Road / Track",
+      "material": "Flyknit + Zoom Air"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Air Max Pulse Street",
+    "brand": "Nike",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 165,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Grey"
+    ],
+    "description": "The icon, reimagined for the streets. Point-blank Air cushioning, premium textile upper and a silhouette that goes with everything.",
+    "stock": 38,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviews": 689,
+    "popularity": 95,
+    "specs": {
+      "weight": "320g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Textile + Air Max"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jordan Retro High '85",
+    "brand": "Nike",
+    "category": "Basketball",
+    "gender": "Men",
+    "price": 210,
+    "oldPrice": 260,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Black"
+    ],
+    "description": "A faithful recreation of the original '85. Premium leather, Wings logo and timeless court heritage — built to turn heads on and off the court.",
+    "stock": 12,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviews": 523,
+    "popularity": 97,
+    "specs": {
+      "weight": "410g",
+      "drop": "—",
+      "surface": "Court",
+      "material": "Full-grain leather"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ultraboost Light Runner",
+    "brand": "Adidas",
+    "category": "Running",
+    "gender": "Women",
+    "price": 175,
+    "oldPrice": 200,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "colors": [
+      "White",
+      "Grey",
+      "Black"
+    ],
+    "description": "Our lightest Ultraboost ever. Energy-returning BOOST midsole, Primeknit upper made with recycled ocean plastic. Run further, feel lighter.",
+    "stock": 31,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.7,
+    "reviews": 298,
+    "popularity": 88,
+    "specs": {
+      "weight": "260g",
+      "drop": "10mm",
+      "surface": "Road",
+      "material": "Primeknit + BOOST"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mercurial Vapor Elite FG",
+    "brand": "Nike",
+    "category": "Football Boots",
+    "gender": "Men",
+    "price": 265,
+    "oldPrice": 300,
+    "discount": 12,
+    "images": [
+      "https://images.pexels.com/photos/40369206/pexels-photo-40369206.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "Red",
+      "Blue"
+    ],
+    "description": "Built for pure speed. Aerowtrak plate, All Conditions Control upper and aggressive studs for lightning acceleration on firm ground.",
+    "stock": 18,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviews": 187,
+    "popularity": 93,
+    "specs": {
+      "weight": "195g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "ACC synthetic + Aerowtrak"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Predator Elite Fold-In FG",
+    "brand": "Adidas",
+    "category": "Football Boots",
+    "gender": "Unisex",
+    "price": 280,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/33060541/pexels-photo-33060541.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "Black",
+      "Green",
+      "White"
+    ],
+    "description": "Control is everything. Fold-in tongue, textured strike zone and a locked-in fit for first-touch mastery in any weather.",
+    "stock": 22,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviews": 156,
+    "popularity": 90,
+    "specs": {
+      "weight": "230g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "HybridTouch leather"
+    }
+  },
+  {
+    "id": 7,
+    "name": "RS-X Reinvention Runner",
+    "brand": "Puma",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 120,
+    "oldPrice": 150,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "colors": [
+      "Yellow",
+      "Black",
+      "White"
+    ],
+    "description": "Bold, chunky, unapologetic. The RS-X reinvention pairs retro running DNA with modern street-ready cushioning.",
+    "stock": 44,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.5,
+    "reviews": 234,
+    "popularity": 76,
+    "specs": {
+      "weight": "340g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Mesh + suede overlays"
+    }
+  },
+  {
+    "id": 8,
+    "name": "990v6 Made in USA",
+    "brand": "New Balance",
+    "category": "Lifestyle",
+    "gender": "Men",
+    "price": 200,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Grey",
+      "White",
+      "Black"
+    ],
+    "description": "The pinnacle of New Balance craftsmanship. Premium suede and mesh, FuelCell foam and all-day stability — made in the USA.",
+    "stock": 16,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviews": 445,
+    "popularity": 89,
+    "specs": {
+      "weight": "330g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Suede + mesh, FuelCell"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Gel-Kayano 31 Stability",
+    "brand": "Asics",
+    "category": "Running",
+    "gender": "Women",
+    "price": 160,
+    "oldPrice": 180,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "colors": [
+      "White",
+      "Blue",
+      "Grey"
+    ],
+    "description": "PureGEL cushioning and 4D Guidance System for a stable, smooth ride mile after mile. Your daily trainer, perfected.",
+    "stock": 27,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.7,
+    "reviews": 312,
+    "popularity": 82,
+    "specs": {
+      "weight": "270g",
+      "drop": "10mm",
+      "surface": "Road",
+      "material": "Engineered mesh + PureGEL"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Classic Leather Legacy",
+    "brand": "Reebok",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 95,
+    "oldPrice": 120,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Red"
+    ],
+    "description": "Since 1983, the Classic Leather has defined casual cool. Soft garment leather, cushioned insole and a clean, timeless profile.",
+    "stock": 52,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.6,
+    "reviews": 521,
+    "popularity": 74,
+    "specs": {
+      "weight": "310g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Garment leather"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Morelia Neo IV Japan",
+    "brand": "Mizuno",
+    "category": "Football Boots",
+    "gender": "Men",
+    "price": 240,
+    "oldPrice": 275,
+    "discount": 13,
+    "images": [
+      "https://images.pexels.com/photos/33060541/pexels-photo-33060541.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40369206/pexels-photo-40369206.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "description": "Handmade in Japan from kangaroo leather. The Morelia Neo IV delivers a barefoot touch and legendary Mizuno fit.",
+    "stock": 9,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviews": 98,
+    "popularity": 85,
+    "specs": {
+      "weight": "210g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Kangaroo leather"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Charged Pursuit 11",
+    "brand": "Under Armour",
+    "category": "Training",
+    "gender": "Men",
+    "price": 110,
+    "oldPrice": 135,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "description": "Lightweight, breathable and built for the grind. Charged Cushioning midsole absorbs impact and converts it into a responsive ride.",
+    "stock": 36,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.5,
+    "reviews": 276,
+    "popularity": 71,
+    "specs": {
+      "weight": "280g",
+      "drop": "8mm",
+      "surface": "Gym / Road",
+      "material": "Mesh + Charged Cushioning"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Pegasus Turbo Next Nature",
+    "brand": "Nike",
+    "category": "Running",
+    "gender": "Women",
+    "price": 195,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "colors": [
+      "White",
+      "Orange",
+      "Black"
+    ],
+    "description": "ZoomX foam, a full-length carbon plate and recycled Flyknit. The Pegasus Turbo is race-day speed for everyday miles.",
+    "stock": 20,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviews": 203,
+    "popularity": 91,
+    "specs": {
+      "weight": "230g",
+      "drop": "8mm",
+      "surface": "Road",
+      "material": "ZoomX + carbon plate"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Samba OG Classic",
+    "brand": "Adidas",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 110,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "description": "Born on the pitch in 1950, the Samba is now a street icon. Premium leather, suede T-toe and gum sole — endlessly wearable.",
+    "stock": 61,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.7,
+    "reviews": 834,
+    "popularity": 94,
+    "specs": {
+      "weight": "290g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Leather + suede"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Future 7 Ultimate FG",
+    "brand": "Puma",
+    "category": "Football Boots",
+    "gender": "Unisex",
+    "price": 230,
+    "oldPrice": 260,
+    "discount": 12,
+    "images": [
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/33085471/pexels-photo-33085471.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40369206/pexels-photo-40369206.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "Orange",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Playmaker energy. PWRTPRINT upper, adaptive studs and a low-profile collar for agility that breaks ankles and defences.",
+    "stock": 14,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.7,
+    "reviews": 87,
+    "popularity": 80,
+    "specs": {
+      "weight": "200g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "PWRTPRINT synthetic"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Gel-Nimbus 26 Cloud",
+    "brand": "Asics",
+    "category": "Running",
+    "gender": "Men",
+    "price": 170,
+    "oldPrice": 190,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
+    "description": "Maximum cushioning, minimum effort. FF BLAST MAX foam and PureGEL deliver a cloud-like ride for long-distance comfort.",
+    "stock": 25,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.8,
+    "reviews": 342,
+    "popularity": 87,
+    "specs": {
+      "weight": "300g",
+      "drop": "13mm",
+      "surface": "Road",
+      "material": "FF BLAST MAX + PureGEL"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Dunk Low Retro Panda",
+    "brand": "Nike",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 115,
+    "oldPrice": 140,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "description": "The most-wanted Dunk colourway. Crisp white leather with black overlays — a clean canvas for every outfit.",
+    "stock": 48,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviews": 912,
+    "popularity": 96,
+    "specs": {
+      "weight": "350g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Premium leather"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Hoka Clifton 9 Glide",
+    "brand": "New Balance",
+    "category": "Running",
+    "gender": "Women",
+    "price": 145,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "colors": [
+      "Grey",
+      "White",
+      "Blue"
+    ],
+    "description": "Light, plush and versatile. CMEVA foam and a balanced geometry make the Clifton 9 the perfect everyday companion.",
+    "stock": 29,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.6,
+    "reviews": 198,
+    "popularity": 79,
+    "specs": {
+      "weight": "250g",
+      "drop": "5mm",
+      "surface": "Road",
+      "material": "CMEVA foam"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Court Vision Low Next",
+    "brand": "Nike",
+    "category": "Basketball",
+    "gender": "Men",
+    "price": 85,
+    "oldPrice": 110,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1519861531473-9200262188bf?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1596464716127-f2a82984de30?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Red"
+    ],
+    "description": "Retro hoops style meets modern comfort. Leather upper, herringbone traction and a padded collar for court-ready looks.",
+    "stock": 33,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.4,
+    "reviews": 167,
+    "popularity": 68,
+    "specs": {
+      "weight": "360g",
+      "drop": "—",
+      "surface": "Court",
+      "material": "Leather + textile"
+    }
+  },
+  {
+    "id": 20,
+    "name": "NMD_R1 Urban Runner",
+    "brand": "Adidas",
+    "category": "Lifestyle",
+    "gender": "Men",
+    "price": 140,
+    "oldPrice": 170,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Grey"
+    ],
+    "description": "Street-ready runner with BOOST energy return and a sock-like Primeknit fit. City miles, redefined.",
+    "stock": 21,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.5,
+    "reviews": 289,
+    "popularity": 73,
+    "specs": {
+      "weight": "300g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Primeknit + BOOST"
+    }
+  },
+  {
+    "id": 21,
+    "name": "King Platinum 21 FG",
+    "brand": "Puma",
+    "category": "Football Boots",
+    "gender": "Men",
+    "price": 220,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/33060541/pexels-photo-33060541.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Green"
+    ],
+    "description": "The King legacy continues. Premium leather, GripControl 3D texture and a classic silhouette built for pure strikers.",
+    "stock": 11,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "reviews": 76,
+    "popularity": 78,
+    "specs": {
+      "weight": "240g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Leather + GripControl"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Revolution 7 Easy Run",
+    "brand": "Nike",
+    "category": "Running",
+    "gender": "Women",
+    "price": 75,
+    "oldPrice": 95,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "colors": [
+      "White",
+      "Grey",
+      "Orange"
+    ],
+    "description": "Soft foam, breathable mesh and a flexible ride. The Revolution 7 makes every run feel easy — at an easy price.",
+    "stock": 55,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.4,
+    "reviews": 431,
+    "popularity": 70,
+    "specs": {
+      "weight": "260g",
+      "drop": "9mm",
+      "surface": "Road",
+      "material": "Mesh + soft foam"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Gazelle Bold Platform",
+    "brand": "Adidas",
+    "category": "Lifestyle",
+    "gender": "Women",
+    "price": 105,
+    "oldPrice": 130,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "colors": [
+      "Yellow",
+      "White",
+      "Black"
+    ],
+    "description": "The Gazelle, elevated. A bold platform sole and premium suede upper for retro style with extra lift.",
+    "stock": 19,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.6,
+    "reviews": 145,
+    "popularity": 75,
+    "specs": {
+      "weight": "320g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Suede + platform sole"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Metcon 9 Training Beast",
+    "brand": "Nike",
+    "category": "Training",
+    "gender": "Unisex",
+    "price": 150,
+    "oldPrice": 180,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Green"
+    ],
+    "description": "Built for lifters and HIIT athletes. Flat, stable heel, rope-wrap durability and a locked-in fit for heavy sessions.",
+    "stock": 26,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.7,
+    "reviews": 221,
+    "popularity": 83,
+    "specs": {
+      "weight": "340g",
+      "drop": "4mm",
+      "surface": "Gym",
+      "material": "Synthetic + rope wrap"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Dunk Low Essential",
+    "brand": "Nike",
+    "category": "Lifestyle",
+    "gender": "Women",
+    "price": 240,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Nike Dunk Low Essential — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 15,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.3,
+    "reviews": 370,
+    "popularity": 55,
+    "specs": {
+      "weight": "240g",
+      "drop": "8mm",
+      "surface": "Road / Track",
+      "material": "Nike performance textile"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Pegasus Turbo Next",
+    "brand": "Nike",
+    "category": "Running",
+    "gender": "Men",
+    "price": 112,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Nike Pegasus Turbo Next — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 22,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.4,
+    "reviews": 383,
+    "popularity": 64,
+    "specs": {
+      "weight": "320g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Nike performance textile"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Phantom GX Academy",
+    "brand": "Nike",
+    "category": "Football Boots",
+    "gender": "Unisex",
+    "price": 129,
+    "oldPrice": 164,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Nike Phantom GX Academy — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 29,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.5,
+    "reviews": 396,
+    "popularity": 73,
+    "specs": {
+      "weight": "410g",
+      "drop": "—",
+      "surface": "Court",
+      "material": "Nike performance textile"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Kyrie Court Vision",
+    "brand": "Nike",
+    "category": "Basketball",
+    "gender": "Women",
+    "price": 146,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Nike Kyrie Court Vision — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 36,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.6,
+    "reviews": 409,
+    "popularity": 82,
+    "specs": {
+      "weight": "260g",
+      "drop": "10mm",
+      "surface": "Road",
+      "material": "Nike performance textile"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Forum Low Classic",
+    "brand": "Adidas",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 163,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.pexels.com/photos/40369206/pexels-photo-40369206.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Adidas Forum Low Classic — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 43,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.7,
+    "reviews": 422,
+    "popularity": 91,
+    "specs": {
+      "weight": "195g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Adidas performance textile"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Adizero Boston Flow",
+    "brand": "Adidas",
+    "category": "Running",
+    "gender": "Women",
+    "price": 180,
+    "oldPrice": 215,
+    "discount": 16,
+    "images": [
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/33060541/pexels-photo-33060541.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Adidas Adizero Boston Flow — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 8,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.8,
+    "reviews": 435,
+    "popularity": 55,
+    "specs": {
+      "weight": "230g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Adidas performance textile"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Predator League FG",
+    "brand": "Adidas",
+    "category": "Football Boots",
+    "gender": "Men",
+    "price": 197,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Adidas Predator League FG — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 15,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviews": 448,
+    "popularity": 64,
+    "specs": {
+      "weight": "340g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Adidas performance textile"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Harden Stepback",
+    "brand": "Adidas",
+    "category": "Basketball",
+    "gender": "Unisex",
+    "price": 214,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Adidas Harden Stepback — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 22,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.2,
+    "reviews": 461,
+    "popularity": 73,
+    "specs": {
+      "weight": "330g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Adidas performance textile"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Suede Street Classic",
+    "brand": "Puma",
+    "category": "Lifestyle",
+    "gender": "Men",
+    "price": 231,
+    "oldPrice": 266,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Puma Suede Street Classic — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 29,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.3,
+    "reviews": 474,
+    "popularity": 82,
+    "specs": {
+      "weight": "270g",
+      "drop": "10mm",
+      "surface": "Road",
+      "material": "Puma performance textile"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Deviate Nitro Elite",
+    "brand": "Puma",
+    "category": "Running",
+    "gender": "Unisex",
+    "price": 248,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Puma Deviate Nitro Elite — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 36,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.4,
+    "reviews": 487,
+    "popularity": 91,
+    "specs": {
+      "weight": "310g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Puma performance textile"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Future Play FG",
+    "brand": "Puma",
+    "category": "Football Boots",
+    "gender": "Women",
+    "price": 120,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.pexels.com/photos/33060541/pexels-photo-33060541.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40369206/pexels-photo-40369206.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Puma Future Play FG — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 43,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.5,
+    "reviews": 500,
+    "popularity": 55,
+    "specs": {
+      "weight": "210g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Puma performance textile"
+    }
+  },
+  {
+    "id": 36,
+    "name": "All-Pro Nitro",
+    "brand": "Puma",
+    "category": "Basketball",
+    "gender": "Men",
+    "price": 137,
+    "oldPrice": 172,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Puma All-Pro Nitro — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 8,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.6,
+    "reviews": 513,
+    "popularity": 64,
+    "specs": {
+      "weight": "280g",
+      "drop": "8mm",
+      "surface": "Gym / Road",
+      "material": "Puma performance textile"
+    }
+  },
+  {
+    "id": 37,
+    "name": "550 Heritage",
+    "brand": "New Balance",
+    "category": "Lifestyle",
+    "gender": "Women",
+    "price": 154,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "New Balance 550 Heritage — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 15,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.7,
+    "reviews": 526,
+    "popularity": 73,
+    "specs": {
+      "weight": "230g",
+      "drop": "8mm",
+      "surface": "Road",
+      "material": "New Balance performance textile"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Fresh Foam X Tempo",
+    "brand": "New Balance",
+    "category": "Running",
+    "gender": "Men",
+    "price": 171,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "New Balance Fresh Foam X Tempo — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 22,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviews": 539,
+    "popularity": 82,
+    "specs": {
+      "weight": "290g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "New Balance performance textile"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Furon Dispatch FG",
+    "brand": "New Balance",
+    "category": "Football Boots",
+    "gender": "Unisex",
+    "price": 188,
+    "oldPrice": 223,
+    "discount": 16,
+    "images": [
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/33085471/pexels-photo-33085471.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40369206/pexels-photo-40369206.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "New Balance Furon Dispatch FG — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 29,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.9,
+    "reviews": 552,
+    "popularity": 91,
+    "specs": {
+      "weight": "200g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "New Balance performance textile"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Two Wxy Court",
+    "brand": "New Balance",
+    "category": "Basketball",
+    "gender": "Women",
+    "price": 205,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "New Balance Two Wxy Court — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 36,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.2,
+    "reviews": 565,
+    "popularity": 55,
+    "specs": {
+      "weight": "300g",
+      "drop": "13mm",
+      "surface": "Road",
+      "material": "New Balance performance textile"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Gel-Kayano Street",
+    "brand": "Asics",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 222,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Asics Gel-Kayano Street — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 43,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.3,
+    "reviews": 578,
+    "popularity": 64,
+    "specs": {
+      "weight": "350g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Asics performance textile"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Novablast Energy",
+    "brand": "Asics",
+    "category": "Running",
+    "gender": "Women",
+    "price": 239,
+    "oldPrice": 274,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Asics Novablast Energy — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 8,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.4,
+    "reviews": 591,
+    "popularity": 73,
+    "specs": {
+      "weight": "250g",
+      "drop": "5mm",
+      "surface": "Road",
+      "material": "Asics performance textile"
+    }
+  },
+  {
+    "id": 43,
+    "name": "DS Light Club FG",
+    "brand": "Asics",
+    "category": "Football Boots",
+    "gender": "Men",
+    "price": 111,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1519861531473-9200262188bf?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1596464716127-f2a82984de30?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Asics DS Light Club FG — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 15,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.5,
+    "reviews": 604,
+    "popularity": 82,
+    "specs": {
+      "weight": "360g",
+      "drop": "—",
+      "surface": "Court",
+      "material": "Asics performance textile"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Gelhoop V15",
+    "brand": "Asics",
+    "category": "Basketball",
+    "gender": "Unisex",
+    "price": 128,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Asics Gelhoop V15 — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 22,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.6,
+    "reviews": 617,
+    "popularity": 91,
+    "specs": {
+      "weight": "300g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Asics performance textile"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Club C Revenge",
+    "brand": "Reebok",
+    "category": "Lifestyle",
+    "gender": "Men",
+    "price": 145,
+    "oldPrice": 180,
+    "discount": 19,
+    "images": [
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/33060541/pexels-photo-33060541.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Reebok Club C Revenge — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 29,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.7,
+    "reviews": 630,
+    "popularity": 55,
+    "specs": {
+      "weight": "240g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Reebok performance textile"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Floatride Energy X",
+    "brand": "Reebok",
+    "category": "Running",
+    "gender": "Unisex",
+    "price": 162,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Reebok Floatride Energy X — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 36,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "reviews": 643,
+    "popularity": 64,
+    "specs": {
+      "weight": "260g",
+      "drop": "9mm",
+      "surface": "Road",
+      "material": "Reebok performance textile"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Zig Kinetica Run",
+    "brand": "Reebok",
+    "category": "Football Boots",
+    "gender": "Women",
+    "price": 179,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Reebok Zig Kinetica Run — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 43,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviews": 656,
+    "popularity": 73,
+    "specs": {
+      "weight": "320g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Reebok performance textile"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Nano Flex Trainer",
+    "brand": "Reebok",
+    "category": "Basketball",
+    "gender": "Men",
+    "price": 196,
+    "oldPrice": 231,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Reebok Nano Flex Trainer — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 8,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.2,
+    "reviews": 669,
+    "popularity": 82,
+    "specs": {
+      "weight": "340g",
+      "drop": "4mm",
+      "surface": "Gym",
+      "material": "Reebok performance textile"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Wave Rider Neo",
+    "brand": "Mizuno",
+    "category": "Lifestyle",
+    "gender": "Women",
+    "price": 213,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Mizuno Wave Rider Neo — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 15,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.3,
+    "reviews": 682,
+    "popularity": 91,
+    "specs": {
+      "weight": "240g",
+      "drop": "8mm",
+      "surface": "Road / Track",
+      "material": "Mizuno performance textile"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Wave Rebellion Flash",
+    "brand": "Mizuno",
+    "category": "Running",
+    "gender": "Men",
+    "price": 230,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Mizuno Wave Rebellion Flash — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 22,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.4,
+    "reviews": 695,
+    "popularity": 55,
+    "specs": {
+      "weight": "320g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Mizuno performance textile"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Morelia Sala Classic",
+    "brand": "Mizuno",
+    "category": "Football Boots",
+    "gender": "Unisex",
+    "price": 247,
+    "oldPrice": 282,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Mizuno Morelia Sala Classic — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 29,
+    "isNew": false,
+    "isFeatured": false,
+    "rating": 4.5,
+    "reviews": 708,
+    "popularity": 64,
+    "specs": {
+      "weight": "410g",
+      "drop": "—",
+      "surface": "Court",
+      "material": "Mizuno performance textile"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Wave Momentum Pro",
+    "brand": "Mizuno",
+    "category": "Basketball",
+    "gender": "Women",
+    "price": 119,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Mizuno Wave Momentum Pro — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 36,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.6,
+    "reviews": 721,
+    "popularity": 73,
+    "specs": {
+      "weight": "260g",
+      "drop": "10mm",
+      "surface": "Road",
+      "material": "Mizuno performance textile"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Curry Splash 24",
+    "brand": "Under Armour",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 136,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.pexels.com/photos/40369206/pexels-photo-40369206.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Under Armour Curry Splash 24 — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 43,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.7,
+    "reviews": 734,
+    "popularity": 82,
+    "specs": {
+      "weight": "195g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Under Armour performance textile"
+    }
+  },
+  {
+    "id": 54,
+    "name": "HOVR Phantom Street",
+    "brand": "Under Armour",
+    "category": "Running",
+    "gender": "Women",
+    "price": 153,
+    "oldPrice": 188,
+    "discount": 19,
+    "images": [
+      "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/33060541/pexels-photo-33060541.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.pexels.com/photos/40509526/pexels-photo-40509526.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "description": "Under Armour HOVR Phantom Street — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 8,
+    "isNew": true,
+    "isFeatured": false,
+    "rating": 4.8,
+    "reviews": 747,
+    "popularity": 91,
+    "specs": {
+      "weight": "230g",
+      "drop": "—",
+      "surface": "Firm Ground",
+      "material": "Under Armour performance textile"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Magnetico Select FG",
+    "brand": "Under Armour",
+    "category": "Football Boots",
+    "gender": "Men",
+    "price": 170,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Blue",
+      "White",
+      "Green"
+    ],
+    "description": "Under Armour Magnetico Select FG — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 15,
+    "isNew": false,
+    "isFeatured": true,
+    "rating": 4.9,
+    "reviews": 760,
+    "popularity": 55,
+    "specs": {
+      "weight": "340g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Under Armour performance textile"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Tribase Reign 6",
+    "brand": "Under Armour",
+    "category": "Basketball",
+    "gender": "Unisex",
+    "price": 187,
+    "oldPrice": null,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=900&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=900&auto=format&fit=crop"
+    ],
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "description": "Under Armour Tribase Reign 6 — versatile performance and everyday comfort. Designed with a supportive fit, durable materials and responsive cushioning.",
+    "stock": 22,
+    "isNew": true,
+    "isFeatured": true,
+    "rating": 4.2,
+    "reviews": 773,
+    "popularity": 64,
+    "specs": {
+      "weight": "330g",
+      "drop": "—",
+      "surface": "Street",
+      "material": "Under Armour performance textile"
+    }
+  }
+]
